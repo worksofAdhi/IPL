@@ -31,7 +31,7 @@ The dashboard answers key questions:
 ## 📝 Insights
 - Mumbai Indians & Chennai Super Kings dominate wins over the years. However, since the introduction of GT & LSG in 2022, GT have the most wins followed by RCB.
 - The most interesting inssight is that the now defunct teams of RPSG, GL and KTK have never won a match by winning the toss and choosing to bat.
-- Players like AB de Villiers & KL Rahul fall in the top-right quadrant (fast & consistent).For the 2025 season, Suryakumar Yadav of MI stands out as explosive(above average SR) and consistent (above average Average) among the top run scorers
-- Some bowlers like JJ Bumrah show low SR & low Average, making them highly effective.For the 2025 season,the top 3 leading wicket takers namely Prasidh Krishna, Noor Ahmad and Josh Hazlewood fall into the above average Average and above average SR category along with Jasprit Bumrah and R Sai Kishore
+- Players like AB de Villiers & D Warner fall in the top-right quadrant (fast & consistent).For the 2025 season, Suryakumar Yadav & Shreyas Iyer stand out as explosive(above average SR) and consistent (above average Average) among the top run scorers
+- Some bowlers like SL Malinga, JJ Bumrah show low SR & low Average, making them highly effective.For the 2025 season,the top 3 leading wicket takers namely Prasidh Krishna, Noor Ahmad and Josh Hazlewood fall into the above average Average and above average SR category along with Jasprit Bumrah and R Sai Kishore
 - Caught is the most common form of dismissal followed by Bowled. However, if we consider the last two overs,runouts become the second most common form of dismissal after caught, which is inline with the tailenders trying to get off strike
 - Umpire Nitin Menon maintains top decision accuracy since 2018.
